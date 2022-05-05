@@ -1,0 +1,79 @@
+{
+  "todos": [
+    {
+      "title": "HTML",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "CSS",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "Javacript",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "NodeJs",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Express",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Mongodb",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "React",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Redux",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Material UI",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Tailwind CSS",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Firebase",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "DSA",
+      "status": false,
+      "id": 12
+    },
+    {
+      "title": "Bootstrap",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "React Spring",
+      "status": false,
+      "id": 14
+    },
+    {
+      "title": "React Rative",
+      "status": false,
+      "id": 15
+    }
+  ]
+}
